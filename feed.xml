@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>github integration test</title>
+    <link href="https://blog.humanmint.com/feed.xml" rel="self" />
+    <link href="https://blog.humanmint.com" />
+    <updated>2025-01-26T00:46:13-08:00</updated>
+    <author>
+        <name>humanmint</name>
+    </author>
+    <id>https://blog.humanmint.com</id>
+
+    <entry>
+        <title>gaming</title>
+        <author>
+            <name>humanmint</name>
+        </author>
+        <link href="https://blog.humanmint.com/gaming.html"/>
+        <id>https://blog.humanmint.com/gaming.html</id>
+
+        <updated>2025-01-26T00:46:13-08:00</updated>
+            <summary>
+                <![CDATA[
+                    lol gaming
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>lol gaming</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
