@@ -3,7 +3,7 @@
     <title>github integration test</title>
     <link href="https://blog.humanmint.com/feed.xml" rel="self" />
     <link href="https://blog.humanmint.com" />
-    <updated>2025-01-26T00:46:13-08:00</updated>
+    <updated>2025-01-26T00:58:00-08:00</updated>
     <author>
         <name>humanmint</name>
     </author>
@@ -14,8 +14,9 @@
         <author>
             <name>humanmint</name>
         </author>
-        <link href="https://blog.humanmint.com/gaming.html"/>
-        <id>https://blog.humanmint.com/gaming.html</id>
+        <link href="https://blog.humanmint.com/gaming/"/>
+        <id>https://blog.humanmint.com/gaming/</id>
+            <category term="yapping"/>
 
         <updated>2025-01-26T00:46:13-08:00</updated>
             <summary>

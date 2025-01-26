@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://blog.humanmint.com/gaming.html",
-            "url": "https://blog.humanmint.com/gaming.html",
+            "id": "https://blog.humanmint.com/gaming/",
+            "url": "https://blog.humanmint.com/gaming/",
             "title": "gaming",
             "summary": "lol gaming",
             "content_html": "<p>lol gaming</p>",
@@ -19,9 +19,10 @@
                 "name": "humanmint"
             },
             "tags": [
+                   "yapping"
             ],
             "date_published": "2025-01-26T00:46:13-08:00",
-            "date_modified": "2025-01-26T00:46:13-08:00"
+            "date_modified": "2025-01-26T00:58:00-08:00"
         }
     ]
 }
